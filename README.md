@@ -19,7 +19,7 @@ In this course we shall have the opportunity to discuss the progress of Indian e
 
 In this course we shall learn about the issues related to industrialization in India since independence. 
 
-[Link to our introductory discussion on industrial progress in India](/DSE-T-3A/industrialization_in_india.html)
+[Link to our introductory discussion on industrial progress in India](/DSE-T-3A/industrialization_in_India.html)
 
 
 
