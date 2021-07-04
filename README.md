@@ -9,7 +9,7 @@ In this page I provide the links to my lectures preapred using R. As I am just a
 
 This is an introductory macroeconomcis course where students would be introduced to the basic tools of macroeconomics and the major debates in macroeconomics. During this course they would focus on learning Simple Keyneian Model and IS-LM model, apart from the issues of National Income Accounting. 
 
-[Link to our first lecture on the roadmap for this course](/CC-T-03/lecture1_roadmap.html)
+[Link to our first lecture on the roadmap for this course](/CC-T-03/lecture1.html)
 
 
 # Lectures on Intermediate Macroeconomics 
